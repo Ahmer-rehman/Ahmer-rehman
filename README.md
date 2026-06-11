@@ -1,10 +1,70 @@
 <div align="center">
 
-# Hi, I'm Ahmer Rehman 👋
+# Hey 👋 What's Up?
+
+## I'm Ahmer Rehman
 
 ### Full Stack Software Engineer | Web & Mobile App Developer | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+modern+web+and+mobile+applications;Creating+AI-powered+digital+products;Working+with+React%2C+Next.js%2C+Node.js+and+AI;Turning+ideas+into+real+production-ready+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Building+modern+web+and+mobile+applications;Creating+AI-powered+digital+products;Working+with+React%2C+Next.js%2C+Node.js+and+AI;Turning+ideas+into+production-ready+systems" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 Tech I Work With
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/ahmer-rehman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
+  <a href="https://github.com/Ahmer-Rehman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+
+  <a href="mailto:ahmerrehman734@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+
+  <a href="https://x.com/arskkhattak" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
 
 </div>
 
@@ -14,35 +74,35 @@
 
 I’m a passionate **Full Stack Software Engineer** focused on building clean, scalable, secure, and user-friendly digital products.
 
-I enjoy working across the full software lifecycle — from designing responsive interfaces to building backend APIs, database structures, real-time systems, document workflows, and AI-powered features.
+I enjoy working across the complete software lifecycle — from designing responsive interfaces to building backend APIs, databases, real-time systems, document workflows, SaaS platforms, and AI-powered features.
 
 * 🔭 Currently working on **web apps, mobile apps, SaaS platforms, and AI-powered systems**
 * 👯 Open to collaborate on **web development, mobile app development, and AI automation projects**
-* 🤝 Looking to grow deeper in **backend architecture, scalable services, and cloud deployment**
+* 🤝 Interested in improving **backend architecture, scalable services, and cloud deployment**
 * 🌱 Currently learning **AI, LLMs, automation, advanced app development, and system design**
 * 💬 Ask me about **React, Next.js, Node.js, mobile apps, AI tools, and SaaS products**
 * ⚡ Fun fact: I love turning ideas into real working products through code
 
 ---
 
-## 🚀 What I Do
+## 🧠 What I Build
 
 <div align="center">
 
-| Area                   | Focus                                                                |
-| ---------------------- | -------------------------------------------------------------------- |
-| 🌐 Web Development     | Modern, responsive, scalable web applications                        |
-| 📱 Mobile Development  | Cross-platform mobile apps using React Native                        |
-| ⚙️ Backend Engineering | APIs, authentication, databases, and business logic                  |
-| 🤖 AI Integration      | AI-powered document processing, automation, and smart workflows      |
-| 🔐 Secure Systems      | Role-based access, audit tracking, encryption, and SaaS architecture |
-| ☁️ DevOps              | Docker, CI/CD, deployments, and production workflows                 |
+| Area                   | Focus                                                   |
+| ---------------------- | ------------------------------------------------------- |
+| 🌐 Web Development     | Modern, responsive, and scalable web applications       |
+| 📱 Mobile Development  | Cross-platform mobile apps using React Native           |
+| ⚙️ Backend Engineering | APIs, authentication, databases, and business logic     |
+| 🤖 AI Integration      | AI document processing, automation, and smart workflows |
+| 🔐 Secure Systems      | RBAC, audit logs, encryption, and SaaS architecture     |
+| ☁️ DevOps              | Docker, CI/CD, deployments, and production workflows    |
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Full Tech Stack
 
 ### 👨‍💻 Languages
 
@@ -56,7 +116,6 @@ I enjoy working across the full software lifecycle — from designing responsive
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge\&logo=swift\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
 </div>
 
@@ -150,24 +209,6 @@ I enjoy working across the full software lifecycle — from designing responsive
 
 ---
 
-### 🧰 Productivity & Design Tools
-
-<div align="center">
-
-![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge\&logo=jira\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge\&logo=trello\&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge\&logo=adobexd\&logoColor=FF61F6)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-
-</div>
-
----
-
 ## 🧩 Featured Projects
 
 ### 🔐 SignFlow AI — Document Signing SaaS Platform
@@ -225,21 +266,20 @@ A legal case management platform designed for banks, courts, lawyers, and legal 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmer-Rehman&theme=gotham&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmer-Rehman&theme=gotham&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="github stats" />
+  <img src="https://streak-stats.demolab.com?user=Ahmer-Rehman&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+
+</div>
 
 <br/>
-<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmer-Rehman&theme=gotham&hide_border=false" alt="GitHub Streak" />
+<div align="center">
 
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmer-Rehman&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmer-Rehman&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="top languages" />
 
 </div>
 
@@ -249,7 +289,9 @@ A legal case management platform designed for banks, courts, lawyers, and legal 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmer-Rehman\&theme=onedark\&no-frame=true\&no-bg=true\&margin-w=15\&margin-h=15\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ahmer-Rehman&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+  </a>
 
 </div>
 
@@ -259,9 +301,19 @@ A legal case management platform designed for banks, courts, lawyers, and legal 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmer-Rehman&theme=gotham&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmer-Rehman&theme=gotham&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
+
+---
+
+## 🟡 Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmer-Rehman/Ahmer-Rehman/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmer-Rehman/Ahmer-Rehman/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ahmer-Rehman/Ahmer-Rehman/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -269,27 +321,7 @@ A legal case management platform designed for banks, courts, lawyers, and legal 
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ahmer-rehman">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmer%20Rehman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/Ahmer-Rehman">
-  <img src="https://img.shields.io/badge/GitHub-Ahmer--Rehman-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="mailto:ahmerrehman734@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 </div>
 
