@@ -120,7 +120,7 @@ I’m a passionate **Software Engineer** focused on building clean, scalable, an
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmer-Rehman&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<img src="[https://github-profile-trophy.vercel.app/?username=Ahmer-Rehman&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://camo.githubusercontent.com/b44075d9b93d6d88bbf899a18e807ad44e533099e8859a4efcbd1809c1a9f612/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792d666f726b2d74776f2e76657263656c2e6170702f3f757365726e616d653d66617268616e2d756c6c6168267468656d653d746f6b796f6e69676874266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d313526726f773d3126636f6c756d6e3d37)" alt="GitHub Trophies" />
 
 </div>
 
