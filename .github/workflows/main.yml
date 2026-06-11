@@ -1,0 +1,51 @@
+name: Test Auto Push Every 10 Seconds
+
+on:
+  workflow_dispatch:
+    inputs:
+      commits:
+        description: "How many test commits to create"
+        required: true
+        default: "5"
+
+permissions:
+  contents: write
+
+jobs:
+  test-auto-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Configure Git
+        run: |
+          git config user.name "Ahmer Rehman"
+          git config user.email "your-github-verified-email@example.com"
+
+      - name: Create commits every 10 seconds
+        run: |
+          mkdir -p automation
+
+          COMMITS="${{ github.event.inputs.commits }}"
+
+          for i in $(seq 1 "$COMMITS"); do
+            echo "Test automated update #$i" > automation/test-auto-push.md
+            echo "Timestamp UTC: $(date -u)" >> automation/test-auto-push.md
+            echo "Run ID: $GITHUB_RUN_ID" >> automation/test-auto-push.md
+
+            git add automation/test-auto-push.md
+
+            if git diff --cached --quiet; then
+              echo "No changes to commit."
+            else
+              git commit -m "test: automated 10 second push #$i"
+              git push
+            fi
+
+            if [ "$i" -lt "$COMMITS" ]; then
+              echo "Waiting 10 seconds..."
+              sleep 10
+            fi
+          done
