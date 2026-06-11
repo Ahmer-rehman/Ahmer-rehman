@@ -248,16 +248,6 @@ I enjoy working across the complete software lifecycle — from designing respon
 
 ---
 
-## 🟡 Pacman Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmer-Rehman/Ahmer-Rehman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmer-Rehman/Ahmer-Rehman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ahmer-Rehman/Ahmer-Rehman/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
