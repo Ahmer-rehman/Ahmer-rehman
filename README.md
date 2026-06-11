@@ -231,7 +231,7 @@ I enjoy working across the complete software lifecycle — from designing respon
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ahmer-Rehman&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Ahmer-Rehman&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
   </a>
 
 </div>
